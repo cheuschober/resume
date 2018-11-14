@@ -6,7 +6,7 @@
   },
   "info": {
     "label": "Technical Engineering Leader",
-    "brief": "",
+    "brief": "A passionate Engineering Leader with an established record of guiding teams of SREs, Operators, Software Engineers, and Database Professionals to new peaks in quality, performance, efficiency, and personal satisfaction. Draws upon an extensive background as an innovative and multi-disciplinary DevOps Engineer, providing strong technical direction with a focus on mentorship, process optimization, and strategic target identification to maximize team results and eliminate unnecessary toil.",
     "image": "https://avatars3.githubusercontent.com/u/1184479?s=400&v=4"
   },
   "contact": {
@@ -24,258 +24,668 @@
   },
   "social": [
     {
-      "label": "",
+      "label": "GitHub",
       "network": "GitHub",
       "user": "cheuschober",
       "url": "https://github.com/cheuschober"
-    }
-  ],
-  "employment": {
-    "summary": "Optional overall employment summary. Not used in most themes.",
-    "history": [
-      {
-        "employer": "Most Recent Employer",
-        "url": "http://employer-website.com",
-        "position": "Head Honcho",
-        "summary": "A summary of your role in this position. Can include **Markdown** and inline <strong>HTML</strong> formatting.",
-        "start": "2013-10",
-        "keywords": [
-          "spin widgets",
-          "CRM",
-          "PM",
-          "Ninjitsu",
-          "Six Sigma"
-        ],
-        "highlights": [
-          "Increased profits on left-handed spin widgets by 35%.",
-          "Participated in iterative/incremental devolution.",
-          "Promoted to Head Ninja after 500 successful cage matches."
-        ]
-      },
-      {
-        "employer": "Previous Employer",
-        "url": "http://employer-website.com",
-        "position": "Worker Bee",
-        "summary": "A summary of your previous role. Can include **Markdown** and inline <strong>HTML</strong> formatting.",
-        "start": "2009-07",
-        "end": "2013-10",
-        "keywords": [
-          "keyword1",
-          "KW2",
-          "KW2++",
-          "YAKW"
-        ],
-        "highlights": [
-          "Highlight #1.",
-          "Highlight #2.",
-          "Highlight #3."
-        ]
-      }
-    ]
-  },
-  "projects": [
-    {
-      "title": "Awesome Project #1",
-      "category": "FOSS",
-      "url": "http://project-page.org",
-      "repo": "https://project-repo.com",
-      "media": [],
-      "role": "Contributor",
-      "summary": "Show off your project work with a Markdown-and-HTML friendly summary of your role on the project. Software projects, creative projects, business projects can all appear here.",
-      "description": "A description of the project, for audiences that may not be familiar with it. Like the summary section, can include **Markdown** and inline <strong>HTML</strong> formatting.",
-      "highlights": [
-        "Project Highlight #1",
-        "Project Highlight #2",
-        "Project Highlight #3"
-      ],
-      "keywords": [
-        "Tag1",
-        "Tag2",
-        "Tag3",
-        "Tag4"
-      ]
     },
     {
-      "title": "Asteroids",
-      "category": "FOSS",
-      "url": "http://asteroids-demo.org",
-      "repo": "https://asteroids-repo.com",
-      "media": [],
-      "role": "Creator",
-      "summary": "Conceived, designed, implemented, and created 3D Asteroids space shooter with Unreal Engine IV and C++.",
-      "description": "A 3D Asteroids clone with Unreal 4 and cross-platform C++.",
-      "highlights": [
-        "Project Highlight #1",
-        "Project Highlight #2",
-        "Project Highlight #3"
-      ],
-      "keywords": [
-        "C++",
-        "Unreal Engine",
-        "3D",
-        "DirectX"
-      ]
+      "label": "LinkedIn",
+      "network": "LinkedIn",
+      "user": "cheuschober",
+      "url": "https://www.linkedin.com/in/cheuschober"
     }
   ],
-  "education": {
-    "summary": "Optional overall education summary. Not used in most themes.",
-    "level": "degree",
-    "degree": "BSCS",
-    "history": [
-      {
-        "institution": "Acme University",
-        "title": "BSCS",
-        "url": "http://acmeuniversity.edu",
-        "start": "2004-09",
-        "end": "2009-06",
-        "grade": "3.5",
-        "summary": "Graduate of Acme University, summer of 2009. Go [Coyotes](https://en.wikipedia.org/wiki/Coyote)!",
-        "curriculum": [
-          "Data Algorithms",
-          "Optimization",
-          "Neural Networks",
-          "C",
-          "C++",
-          "Java",
-          "HTTP",
-          "TCP/IP"
-        ]
-      }
-    ]
-  },
-  "service": {
-    "summary": "",
-    "history": [
-      {
-        "flavor": "volunteer",
-        "position": "Volunteer Coordinator",
-        "organization": "The Mommies Network",
-        "url": "http://themommiesnetwork.org",
-        "start": "2006-06",
-        "summary": "A summary of your volunteer experience at this organization. Can include **Markdown** and inline <strong>HTML</strong> formatting.",
-        "highlights": []
-      },
-      {
-        "flavor": "military",
-        "position": "MOS",
-        "organization": "Air Force",
-        "url": "https://service-website.mil",
-        "start": "2004",
-        "summary": "A summary of your service experience with this organization. Can include **Markdown** and inline <strong>HTML</strong> formatting.",
-        "highlights": []
-      }
-    ]
-  },
   "skills": {
     "sets": [
       {
-        "name": "Web Development",
+        "name": "Automation / CICD",
+        "level": "master",
+        "skills": [
+          "ansible",
+          "concourseci",
+          "drone.io",
+          "git",
+          "jenkins",
+          "saltstack",
+          "terraform",
+          "teamcity"
+        ]
+      },
+      {
+        "name": "Data Storage / Transport",
+        "level": "master",
+        "skills": [
+          "etcd",
+          "consul",
+          "kafka",
+          "mariadb",
+          "mysql",
+          "postgresql",
+          "rabbitmq",
+          "sql server",
+          "zookeeper"
+        ]
+      },
+      {
+        "name": "Languages / Frameworks",
+        "level": "master",
+        "skills": [
+          "bash",
+          "django",
+          "flask",
+          "go",
+          "javascript",
+          "php",
+          "python",
+          "yii"
+        ]
+      },
+      {
+        "name": "Leadership / Project Management",
+        "level": "master",
+        "skills": [
+          "culture building",
+          "devops",
+          "kanban",
+          "mentorship",
+          "operational efficiency",
+          "people management",
+          "presentation",
+          "process optimization",
+          "risk management",
+          "scrum",
+          "sre",
+          "team building"
+        ]
+      },
+      {
+        "name": "Containerization / Cloud Native",
         "level": "advanced",
         "skills": [
-          "LAMP",
-          "JavaScript",
-          "HTML 5",
-          "Angular.js",
-          "jQuery",
-          "Sass",
-          "LESS"
+          "calico",
+          "docker",
+          "kubernetes",
+          "helm",
+          "lxc",
+          "marathon",
+          "mesos",
+          "openvz"
         ]
       },
       {
-        "name": "Ninjitsu",
-        "level": "intermediate",
+        "name": "Virtualization / Operations",
+        "level": "advanced",
         "skills": [
-          "Tokagure Ryu",
-          "Shuriken",
-          "Yogen"
-        ]
-      },
-      {
-        "name": "Skillset #3",
-        "level": "beginner",
-        "skills": [
-          "Your",
-          "keywords",
-          "here"
+          "elasticsearch",
+          "grafana",
+          "fluentd",
+          "kvm",
+          "linux",
+          "openstack",
+          "prometheus",
+          "proxmox",
+          "zabbix"
         ]
       }
     ],
-    "list": []
+    "list": [
+      {
+        "name": "culture building",
+        "level": "master",
+        "years": 13
+      },
+      {  "name": "devops",
+         "level": "master",
+         "years": 7
+      },
+      {  "name": "kanban",
+         "level": "advanced",
+         "years": 8
+      },
+      {  "name": "mentorship",
+         "level": "master",
+         "years": 11
+      },
+      {  "name": "operational efficiency",
+         "level": "master",
+         "years": 11
+      },
+      {  "name": "people management",
+         "level": "advanced",
+         "years": 9
+      },
+      {  "name": "presentation",
+         "level": "master",
+         "years": 13
+      },
+      {  "name": "process optimization",
+         "level": "master",
+         "years": 13
+      },
+      {  "name": "risk management",
+         "level": "master",
+         "years": 9
+      },
+      {  "name": "scrum",
+         "level": "master",
+         "years": 8
+      },
+      {  "name": "team building",
+         "level": "master",
+         "years": 11
+      },
+      {  "name": "sre",
+         "level": "master",
+         "years": 3
+      },
+      {  "name": "calico",
+         "level": "advanced",
+         "years": 3
+      },
+      {  "name": "docker",
+         "level": "advanced",
+         "years": 4
+      },
+      {  "name": "kubernetes",
+         "level": "intermediate",
+         "years": 2
+      },
+      {  "name": "helm",
+         "level": "intermediate",
+         "years": 2
+      },
+      {  "name": "lxc",
+         "level": "advanced",
+         "years": 5
+      },
+      {  "name": "marathon",
+         "level": "advanced",
+         "years": 3
+      },
+      {  "name": "mesos",
+         "level": "advanced",
+         "years": 3
+      },
+      {  "name": "openvz",
+         "level": "intermediate",
+         "years": 5
+      },
+      {  "name": "ansible",
+         "level": "intermediate",
+         "years": 3
+      },
+      {  "name": "drone.io",
+         "level": "beginner",
+         "years": 1
+      },
+      {  "name": "concourseci",
+         "level": "beginner",
+         "years": 1
+      },
+      {  "name": "git",
+         "level": "master",
+         "years": 10
+      },
+      {  "name": "jenkins",
+         "level": "advanced",
+         "years": 7
+      },
+      {  "name": "saltstack",
+         "level": "master",
+         "years": 6
+      },
+      {  "name": "terraform",
+         "level": "beginner",
+         "years": 1
+      },
+      {  "name": "teamcity",
+         "level": "intermediate",
+         "years": 3
+      },
+      {  "name": "etcd",
+         "level": "advanced",
+         "years": 3
+      },
+      {  "name": "consul",
+         "level": "advanced",
+         "years": 3
+      },
+      {  "name": "kafka",
+         "level": "intermediate",
+         "years": 3
+      },
+      {  "name": "mariadb",
+         "level": "master",
+         "years": 8
+      },
+      {  "name": "mysql",
+         "level": "master",
+         "years": 10
+      },
+      {  "name": "postgresql",
+         "level": "advanced",
+         "years": 5
+      },
+      {  "name": "rabbitmq",
+         "level": "intermediate",
+         "years": 5
+      },
+      {  "name": "sql server",
+         "level": "master",
+         "years": 10
+      },
+      {  "name": "zookeeper",
+         "level": "intermediate",
+         "years": 3
+      },
+      {  "name": "bash",
+         "level": "master",
+         "years": 17
+      },
+      {  "name": "django",
+         "level": "intermediate",
+         "years": 3
+      },
+      {  "name": "flask",
+         "level": "advanced",
+         "years": 7
+      },
+      {  "name": "go",
+         "level": "beginner",
+         "years": 1
+      },
+      {  "name": "javascript",
+         "level": "beginner",
+         "years": 1
+      },
+      {  "name": "php",
+         "level": "advanced",
+         "years": 6
+      },
+      {  "name": "python",
+         "level": "master",
+         "years": 9
+      },
+      {  "name": "yii",
+         "level": "master",
+         "years": 4
+      },
+      {  "name": "elasticsearch",
+         "level": "intermediate",
+         "years": 4
+      },
+      {  "name": "grafana",
+         "level": "intermediate",
+         "years": 3
+      },
+      {  "name": "fluentd",
+         "level": "intermediate",
+         "years": 2
+      },
+      {  "name": "kvm",
+         "level": "intermediate",
+         "years": 8
+      },
+      {  "name": "linux",
+         "level": "master",
+         "years": 17
+      },
+      {  "name": "openstack",
+         "level": "intermediate",
+         "years": 3
+      },
+      {  "name": "prometheus",
+         "level": "intermediate",
+         "years": 2
+      },
+      {  "name": "proxmox",
+         "level": "advanced",
+         "years": 8
+      },
+      {  "name": "zabbix",
+         "level": "advanced",
+         "years": 7
+      }
+    ]
   },
-  "samples": [
+  "employment": {
+    "summary": "Additional work history available upon request.",
+    "history": [
+      {
+        "employer": "Dell EMC",
+        "url": "https://dellemc.com",
+        "position": "Manager, Platform Engineering",
+        "summary": "Responsible for the development and delivery of container and hypervisor compute platforms supporting the Virtustream Storage Cloud and Next-Generation Virtustream Enterprise Cloud (IaaS) as well as all major supporting datacenter services.",
+        "start": "2017-04",
+        "keywords": [
+          "culture building",
+          "helm",
+          "kubernetes",
+          "mentorship",
+          "people management",
+          "process optimization",
+          "team building"
+        ],
+        "highlights": [
+          "Retained prior responsibilities for the Virtustream Storage Cloud container platform while adding operations support for a public Openstack IaaS product and the operations and maintenance of all core services in Openstack datacenters such as log collection, monitoring, dns, auth, smtp, ntp, and others.",
+          "Recognized as a change agent in the field of operational efficiency and stable service delivery demonstrating a peak team operating efficiency of 3400 services per head with a 15% toil rate.",
+          "Drove the design, development, and implementation of the next-generation IaaS platform with significant benefits to operational overhead, durability, availability, scalability, and service delivery.",
+          "Entrusted with the operation of core services in the Next-Generation IaaS platform with a fully containerized stack including such major functions as auth, identity, mail, alerting, monitoring, logging, ntp, dns, certificates-as-a-service, key-value stores, message buses, secret stores, and others.",
+          "Orchestrated the development and adoption of the next-generation container platform based on Kubernetes and Helm within the next-generation IaaS platform and the next-generation storage cloud.",
+          "Developed automated tooling for security compliance and audit evidence collection, reducing compliance-related toil by 85%."
+        ]
+      },
+      {
+        "employer": "Dell EMC",
+        "url": "https://dellemc.com",
+        "position": "Senior Principal Software Engineer",
+        "summary": "Responsible for leading the continued advancement and operations of the container platform supporting the Virtustream Storage Cloud.",
+        "start": "2016-10",
+        "end": "2017-04",
+        "keywords": [
+          "culture building",
+          "mesos",
+          "mentorship",
+          "openstack",
+          "python",
+          "operational efficiency",
+          "process optimization",
+          "salt"
+        ],
+        "highlights": [
+          "Continued leadership of the Site Reliability Engineering (SRE) team responsible for the operations of the container platform supporting the Virtustream Storage Cloud.",
+          "Evangelized the use of automation through presentations and training within the broader organization and beyond.",
+          "Developed automation and state systems for performing zero-dropped-connection rolling updates of the container platform.",
+          "Drove constant improvements in monitoring, testing, reliability, durability, adoption, and usability of the container platform and services running atop it.",
+          "Maintained team morale, focus, productivity, and platform SLAs through a 50% workforce reduction instituted under new leadership.",
+          "Set the strategy for the next generation (Kubernetes) container platform and rallied team members under the new initiative." 
+        ]
+      },
+      {
+        "employer": "Dell EMC",
+        "url": "https://dellemc.com",
+        "position": "Principal Software Engineer",
+        "summary": "Responsible for the availability, latency, performance, efficiency, change management, monitoring, emergency response and capacity planning of infrastructure services and platforms.",
+        "start": "2015-05",
+        "end": "2016-10",
+        "keywords": [
+          "calico",
+          "consul",
+          "docker",
+          "linux",
+          "lxc",
+          "marathon",
+          "mentorship",
+          "mesos",
+          "python",
+          "salt"
+        ],
+        "highlights": [
+          "Lead a team of Site Reliability Engineers (SRE) responsible for the development and operations of a customized implementation of Apache Mesos for a multi-exabyte, distributed public storage cloud.",
+          "Architect and core contributor of a stateful automation suite capable of bootstrapping and maintaining a PCI-compliant container platform on physical infrastructure in all global datacenters with no human interaction and a ten-minute execution window.",
+          "Orchestrated the container platform build architecture, operations model, and user adoption strategy that resulted in a 300% increase in year over year platform adoption.",
+          "Developed a new paradigm for reusable, testable automation with Salt and LXC that reduced test execution times by 90%.",
+          "Composed stateful automation modules in Python and provided a Python / development mentorship function for SREs.",
+          "Implemented monitoring and service health check tooling to guarantee SLO target achievement.",
+          "Participated in on-call incident management and toil-elimination activities."
+        ]
+      },
+      {
+        "employer": "CUNY School of Professional Studies",
+        "url": "https://sps.cuny.edu",
+        "position": "Adjunct Lecturer",
+        "summary": "Responsible for the development and instruction of the Software Application Programming curriculum for the newly established Bachelor Degree in Information Systems.",
+        "start": "2014-08",
+        "end": "2016-06",
+        "keywords": [
+          "jenkins",
+          "mentorship",
+          "linux",
+          "python",
+          "testing"
+        ],
+        "highlights": [
+          "Created a modern application development curriculum using entirely Free and Open Source Software (FOSS).",
+          "Developed a continuous integration toolchain to provide automated assignment scoring via unit tests, integration tests, and linters in Docker sandboxes with near-instantaneous feedback given to students.",
+          "Fostered a culture of readability, performance, and precision that prepared students for real world, multi-engineer environments where 99.9% is the lowest bar for success and is exceeded though iteration and adherence to idiomatic design."
+        ]
+      },
+      {
+        "employer": "CUNY School of Professional Studies",
+        "url": "https://sps.cuny.edu",
+        "position": "Software Development Manager",
+        "summary": "Responsible for application services administration and the development of internal software solutions.",
+        "start": "2009-11",
+        "end": "2015-05",
+        "keywords": [
+          "django",
+          "jenkins",
+          "mysql",
+          "php",
+          "python",
+          "rabbitmq",
+          "salt",
+          "symfony",
+          "yii"
+        ],
+        "highlights": [
+          "Oversaw a net 600% increase of the staff to supported service ratio of the Information Technology, largely due to automation and standardization efforts.",
+          "Created and administered a DevOps Mentorship program to modernize and expand the skills of IT Staff.",
+          "Implemented The School's first CI/CD pipeline using Jenkins, Git, and Salt and expanded its use to all projects within a year of initial implementation.",
+          "Spearheaded the use of stateful automation tooling throughout all service lines and pioneered the use of immutable (containerized) infrastructure.",
+          "Partnered with the NYC Office of Emergency Management and the Open Source Community to transform business needs into Sahana Agasti, an Open-Source Emergency Management solution that utilized geographic data to deploy staff and track shelter operations during Hurricanes Irene and Sandy."
+        ]
+      },
+      {
+        "employer": "CUNY School of Professional Studies",
+        "url": "https://sps.cuny.edu",
+        "position": "Database Manager",
+        "summary": "Responsible for the design, development, and administration of all data systems.",
+        "start": "2007-12",
+        "end": "2009-11",
+        "keywords": [
+          "architecture",
+          "sql server",
+          "mentorship",
+          "mysql",
+          "process optimization",
+          "python"
+        ],
+        "highlights": [
+          "Lead the efforts of full-stack engineers building dynamic web applications.",
+          "Oversaw the construction of The School's first independent datacenter.",
+          "Developed the NYC Coastal Storm Plan Training System in partnership with the NYC Office of Emergency Management.",
+          "Designed and implemented a plan to migrate a portion of The School's website to a CMS, reducing administrator toil by 95%."
+        ]
+      },
+      {
+        "employer": "CUNY Research Foundation",
+        "url": "http://www.rfcuny.org",
+        "position": "Database Specialist",
+        "summary": "Supervisded data warehousing, reporting, and cleanup activities for grant-funded research initiatives.",
+        "start": "2005-08",
+        "end": "2007-12",
+        "keywords": [
+          "architecture",
+          "reporting",
+          "sql server",
+          "sql",
+          "statistics",
+          "visual basic"
+        ],
+        "highlights": []
+      },
+      {
+        "employer": "CUNY Research Foundation",
+        "url": "http://www.rfcuny.org",
+        "position": "Database Assistant",
+        "summary": "Managed data reporting activities for the CUNY Office of Academic Affairs.",
+        "start": "2004-12",
+        "end": "2005-08",
+        "keywords": [
+          "architecture",
+          "reporting",
+          "sql server",
+          "sql",
+          "statistics",
+          "visual basic"
+        ],
+        "highlights": []
+      },
+      {
+        "employer": "Millikin University",
+        "url": "https://www.millikin.edu",
+        "position": "Technology Fellow",
+        "summary": "Developed original site's content, images, styles and infrastructure for the Theatre and Dance Department website.",
+        "start": "2000-09",
+        "end": "2003-05",
+        "keywords": [
+            "css",
+            "html",
+            "mysql",
+            "php"
+        ],
+        "highlights": []
+      }
+    ]
+  },
+  "projects": [],
+  "education": {
+    "summary": "Possesses a Bachelors Degree.",
+    "level": "degree",
+    "degree": "BFA",
+    "history": [
+      {
+        "title": "SaltStack Certified Engineer",
+        "institution": "SaltStack",
+        "studyType": "Certification",
+        "start": "2014-01",
+        "summary": "SSC ID: 0xEABBB4B4"
+      },
+      {
+        "institution": "Millikin University",
+        "title": "Bachelor of Fine Arts",
+        "studyType": "Bachelor",
+        "area": "Fine Arts",
+        "location": "Decatur, IL",
+        "url": "https://www.millikin.edu",
+        "start": "1999-09",
+        "end": "2003-05",
+        "summary": "Graduated from Millikin University (Decatur, IL) in 2003 with a Bachelor of Fine Arts in Musical Theatre.",
+        "curriculum": []
+      }
+    ]
+  },
+  "governance": [
     {
-      "title": "Work Sample #1",
-      "summary": "A technical or creative **work sample**.",
-      "url": "http://project-repo.com",
-      "date": "2015"
-    },
-    {
-      "title": "Creative Sample #2",
-      "summary": "Another technical or creative sample. You can use [Markdown](https://daringfireball.net/projects/markdown/) here.",
-      "url": "http://project-repo.com",
-      "date": "2015"
+      "flavor": "committee",
+      "role": "Project Management Committee Chair",
+      "organization": "Sahana Software Foundation",
+      "url": "https://sahanafoundation.org",
+      "start": "2011-04",
+      "end": "2012-06",
+      "summary": "Lead the Agasti project on the Sahana Project Management Committee, a project focused on disaster preparedness and shelter operations used in New York City during Hurricanes Irene and Sandy.",
+      "highlights": []
     }
   ],
-  "writing": [
+  "samples": [],
+  "writing":[],
+  "reading": [
     {
-      "title": "My Blog",
-      "publisher": {
-        "name": "Medium.com",
-        "url": "https://medium.com"
-      },
-      "flavor": "blog",
-      "date": "2010",
-      "summary": "Your blog or online home.",
-      "url": "http://coding-snorer.com"
+      "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "flavor": "book",
+      "author": "Robert C. Martin",
+      "date": "2008-08",
+      "summary": "One of the better abstract approaches to software design and one of the first tools I regularly offer to developers in need of guidance."
     },
     {
-      "title": "Something I Wrote Once",
-      "flavor": "essay",
-      "date": "2009",
-      "summary": "List your blogs, articles, essays, novels, and dissertations.",
-      "publisher": {
-        "name": "Acme University Press",
-        "url": "http://press.acmeuniversity.edu"
-      },
-      "url": "http://codeproject.com/something-i-wrote-once"
+      "title": "First, Break All The Rules: What the World's Greatest Managers Do Differently",
+      "flavor": "book",
+      "author": "Marcus Buckingham",
+      "date": "2016-05",
+      "summary": "A thought-provoking set of case studies on the role of a manager and managerial action."
+    },
+    {
+      "title": "Turn the Ship Around!: A True Story of Turning Followers into Leaders",
+      "flavor": "book",
+      "author": "L. David Marquet",
+      "date": "2013-05",
+      "summary": "An exploration of the manager's role in fostering self-governance and building a culture of functional leaders."
+    },
+    {
+      "title": "Site Reliability Engineering: How Google Runs Production Systems",
+      "flavor": "book",
+      "author": "Betsy Beyer, Chris Jones, Jennifer Petoff",
+      "date": "2016-04",
+      "summary": "The go-to resource for implementing an SRE approach to stable, agile service delivery."
+    },
+    {
+      "title": "The Site Reliability Workbook: Practical Ways to Implement SRE",
+      "flavor": "book",
+      "author": "Betsy Beyer",
+      "date": "2018-08",
+      "summary": "An excellent supplement to the original SRE book that provides necessary practical examples for implementing the SRE approach to service delivery."
     }
   ],
-  "reading": [],
+  "speaking": [
+    {
+      "title": "How the Challenge of Deploying Mesos Revolutionized the Way We Use SaltStack",
+      "role": "Speaker",
+      "event": "SaltConf 16",
+      "location": "Salt Lake City, UT",
+      "date": "2016"
+    },
+    {
+      "title": "Sahana Agasti: Mayon for HyperScale Emergency Management",
+      "role": "Speaker",
+      "event": "SahanaCamp@ISCRAM",
+      "location": "Lisbon, Portugal",
+      "date": "2011"
+    }
+  ],
   "recognition": [
     {
       "flavor": "award",
-      "from": "HackMyResume",
-      "title": "Awesomeness Award",
-      "event": "HMR Release",
-      "url": "https://fluentdesk.com/hackmyresume",
-      "date": "2016",
-      "summary": "Thanks for being a HackMyResume / FluentCV user!"
+      "from": "City University of New York (CUNY)",
+      "title": "Excellence in Technology Service",
+      "event": "14th Annual CUNY IT Conference",
+      "date": "2015",
+      "summary": "Awarded for Excellence in Technology Service related to classroom innovations in software development and instruction."
     },
+    {
+      "flavor": "award",
+      "from": "City University of New York (CUNY)",
+      "title": "Michael Ribaudo Award for Computing Achievement",
+      "event": "10th Annual CUNY IT Conference",
+      "date": "2011",
+      "summary": "Awarded for contributions to the New York City response to Hurricaine Irene via the Sahana Disaster Management Software Project."
+    }
   ],
   "references": [
     {
       "name": "Steven Gonzales",
       "category": "professional",
-      "role": " @ Somewhere Inc.",
+      "role": "Director, Infrastructure Software Engineering @ DellEMC",
       "private": true,
       "summary": "Contact information available on request.",
       "contact": [
         {
           "flavor": "email",
-          "value": "john.doe@somewhere.com"
+          "value": "stevendgonzales@gmail.com"
         }
       ]
     },
     {
-      "name": "Jane Q. Fullstacker",
+      "name": "Josh Conant",
       "category": "technical",
       "summary": "Contact information available on request.",
-      "role": "Coworker",
+      "role": "Consultant Software Engineer @ DellEMC",
       "private": true,
       "contact": [
         {
           "flavor": "email",
-          "value": "jane.fullstacker@somewhere.com"
+          "value": "josh@conant.family"
         }
       ]
     }
@@ -287,25 +697,68 @@
       "level": "native"
     }
   ],
+  "extracurricular": [
+    {
+      "title": "Fat Cat Fab Lab",
+      "activity": "Makerspace",
+      "location": "New York, NY",
+      "start": "2017-04"
+    },
+    {
+      "title": "Uptown NYC Board Gamers",
+      "activity": "Board Game Meetup",
+      "location": "New York, NY",
+      "start": "2017-01"
+    },
+    {
+      "title": "Bridle Path Track Club",
+      "activity": "Long-Distance Running, Marathons, and Ultramarathons",
+      "location": "New York, NY",
+      "start": "2008-11",
+      "end": "2017-11"
+    }
+  ],
   "interests": [
     {
-      "name": "GitHub",
-      "summary": "Regular GitHub user and tinkerer.",
+      "name": "3D Modeling and Digital Fabrication",
+      "summary": "Practices 3d modeling and digital fabrication with experience in 3D printing, laser cutting, and CNC.",
       "keywords": [
-        "GitHub",
-        "git",
-        "GitHub Desktop (OS X)",
-        "LFS",
-        "GitHub API"
+        "Autodesk Fusion 360",
+        "3D Modeling",
+        "Laser Cutting",
+        "Waterjet Cutting",
+        "CNC Routing",
+        "3D Printing"
       ]
     },
     {
-      "name": "chess",
-      "summary": "Avid chess player.",
+      "name": "Propmaking",
+      "summary": "Combines digital fabrication techniques with traditional techniques such as casting, molding, and wearable electronics in the creation of prop replicas.",
       "keywords": [
-        "Sicilian",
-        "King's Gambit",
-        "Ruy Lopez"
+        "Arduino",
+        "Neopixel",
+        "Animatronics",
+        "Casting",
+        "Molding",
+        "Painting"
+      ]
+    },
+    {
+      "name": "Leatherworking",
+      "summary": "Works leather in the construction and detailing of garments and cases.",
+      "keywords": [
+        "Leatherworking",
+        "Leather Armor",
+        "Leather Carving"
+      ]
+    },
+    {
+      "name": "Hobbyist Board Games",
+      "summary": "Enjoys games focused on strategy, team building, and resource constraint simulation.",
+      "keywords": [
+        "Eurogame",
+        "Ameritrash",
+        "Collectible Card Games"
       ]
     }
   ]
