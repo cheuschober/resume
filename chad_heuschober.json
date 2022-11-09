@@ -10,7 +10,7 @@
     "image": "https://avatars3.githubusercontent.com/u/1184479?s=400&v=4"
   },
   "contact": {
-    "website": "http://cheuschober.github.io",
+    "website": "https://cheuschober.github.io",
     "phone": "1-917-334-6582",
     "email": "cheuschober@gmail.com",
     "other": []
@@ -64,6 +64,7 @@
           "postgresql",
           "rabbitmq",
           "sql server",
+          "vault",
           "zookeeper"
         ]
       },
@@ -275,6 +276,10 @@
          "level": "master",
          "years": 10
       },
+      {  "name": "vault",
+         "level": "intermediate",
+         "years": 3
+      },
       {  "name": "zookeeper",
          "level": "intermediate",
          "years": 3
@@ -470,7 +475,7 @@
           "yii"
         ],
         "highlights": [
-          "Oversaw a net 600% increase of the staff to supported service ratio of the Information Technology, largely due to automation and standardization efforts.",
+          "Oversaw a net 600% increase of the staff to supported service ratio of the Office of Information Technology, largely due to automation and standardization efforts.",
           "Created and administered a DevOps Mentorship program to modernize and expand the skills of IT Staff.",
           "Implemented The School's first CI/CD pipeline using Jenkins, Git, and Salt and expanded its use to all projects within a year of initial implementation.",
           "Spearheaded the use of stateful automation tooling throughout all service lines and pioneered the use of immutable (containerized) infrastructure.",
